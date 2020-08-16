@@ -10,6 +10,6 @@ My name is Nikki and I am a high school student interested in using computer sci
 ### Current Projects:
 | Date  | Project | Description | Tools |
 | ------------- | ------------ | ------------- | ------------- |
-| 15/08/20 | Nature Awareness  | An interactive website to give visitors a glimpse of a national park | Bootstrap, React.js |
-| 10/08/20 | Personal Website | A website with a custom blog content management system | Django, React.js |
-| 31/07/20 | Fruit.TO | An app that displays public fruit trees and related info | React Native, SQLite | 
+| 15/08/20 - | Nature Awareness  | An interactive website to give visitors a glimpse of a national park | Bootstrap, React.js |
+| 10/08/20 - | Personal Website | A website with a custom blog content management system | Django, React.js |
+| 31/07/20 - | Fruit.TO | An app that displays public fruit trees and related info | React Native, SQLite | 
