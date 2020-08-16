@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello, World! :wave: 
+**Welcome to my GitHub profile! Feel free to browse through my projects.** 
 
-<!--
-**nikkiguo/nikkiguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Nikki and I am a high school student interested in using computer science to make an impact. From exploring abstract math concepts to developing language proficiency, I am enthusiatic about learning new things!  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My other interests include:**
+- Research - I am working on data analysis and infographics to inform the public and stop the spread of misinformation. 
+- Visual Arts - I enjoy nature sketching, painting, and graphic design.
+- Running and reading
+### Current Projects:
+| Date  | Project | Description | Tools |
+| ------------- | ------------ | ------------- | ------------- |
+| 15/08/20 | Nature Awareness  | An interactive website to give visitors a glimpse of a national park | Bootstrap, React.js |
+| 10/08/20 | Personal Website | A website with a custom blog content management system | Django, React.js |
+| 31/07/20 | Fruit.TO | An app that displays public fruit trees and related info | React Native, SQLite | 
