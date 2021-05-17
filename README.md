@@ -1,5 +1,5 @@
 # Hello, World! :wave: 
-**Welcome to my GitHub profile! Feel free to browse through my projects.** 
+**Welcome to my GitHub profile!** 
 
 My name is Nikki and I am a high school student interested in using computer science to make an impact. From exploring abstract math concepts to developing language proficiency, I am enthusiatic about learning new things!  
 
