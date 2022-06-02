@@ -14,6 +14,5 @@ Through past internships, side projects, and extracurriculars, I have attained s
 **Tech stack:**
 - **Languages:** Python, JavaScript, C, Java, HTML/CSS, PHP, XML, Ruby, SQL
 - **Technologies:** React, React Native, Ruby on Rails, Firebase, Django, OpenCV, Android Studio, Docker, Bash, Git, Figma
-<br>
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nikkiguo/) and schedule a coffee chat!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nikkiguo/) and schedule a coffee chat ☕ !
