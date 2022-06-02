@@ -7,7 +7,7 @@ Through past internships, side projects, and extracurriculars, I have attained s
 
 **I am currently:**
 - 🧠 interning at IBM on the [Skills Network Team](https://skills.network/)
-- 💾 making a chrome extension to make saving code snippets more organized
+- 💾 developing a chrome extension to make saving code snippets more organized
 - 📸 learning more about computer vision
 
 
