@@ -15,3 +15,5 @@ Through past internships, side projects, and extracurriculars, I have attained s
 - **Technologies:** React, React Native, Ruby on Rails, Firebase, Django, OpenCV, Android Studio, Docker, Bash, Git, Figma
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nikkiguo/) and schedule a coffee chat ☕ !
+
+![](https://komarev.com/ghpvc/?username=nikkiguo&color=blueviolet)
