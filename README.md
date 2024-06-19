@@ -7,7 +7,7 @@ Through past internships, side projects, and extracurriculars, I have attained s
 
 **Currently I am:**
 - 🗺️ Learning more about SLAM by implementing GraphSLAM from scratch
-- 🦾 Making a robotic ukulele player with an Arduino kit
+- 🦾 Building UkuBot, a robotic ukulele player with an Arduino kit
 - 🧶 Exploring other creative hobbies, like playing the guitar and crocheting plants
 
 **Tech stack:**
